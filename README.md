@@ -1,3 +1,4 @@
+![logo](https://github.com/ig-animesh/ig-animesh/blob/main/Animesh%20LinkedIn%20Banner1.png)
 <h1 align="center">Hi 👋, I'm Animesh Halder</h1>
 <h3 align="center">Self-taught Frontend Developer</h3>
 
