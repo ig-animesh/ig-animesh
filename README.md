@@ -1,7 +1,3 @@
-<!-- START OF MODERN GITHUB README -->
-
-![banner](https://github.com/ig-animesh/ig-animesh/blob/main/Animesh%20LinkedIn%20Banner1.png)
-
 <h1 align="center">Hi 👋, I'm Animesh Halder</h1>
 <h3 align="center">Frontend Developer | React & Next.js Enthusiast | Clean UI Evangelist</h3>
 
@@ -25,7 +21,7 @@
     <!-- Next.js -->
     <td align="center" style="background-color: white; border-radius: 8px;">
       <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50" style="background-color: white; padding: 6px; border-radius: 8px;" />
+        <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="50" height="50" " />
         <br /><sub><strong>Next.js</strong></sub>
       </a>
     </td>
@@ -51,11 +47,13 @@
 ---
 
 ### 🔧 Currently Exploring
-- 🌱 Backend technologies like **Node.js, Express.js, Django**
-- 🔄 API integration & full-stack project architecture
-- 🔍 Performance optimization and accessibility improvements
-
----
+- ⚡ **App Router & Server Components** in Next.js 14
+- 🎯 Building real-world features using **Shadcn/UI** and **Framer Motion**
+- 🌐 Accessibility-first UI with **Headless UI** & **Radix UI**
+- 📦 API-based automation with **tRPC**, **Zustand**, and **SWR/React Query**
+- 🧠 Experimenting with **AI-assisted UI/UX workflows** using **Vercel’s v0**, **Lovable.dev**
+- 🧰 Custom component systems using **Tailwind CSS + TypeScript + Storybook**
+- 🛠️ Implementing **Dark Mode**, **Theme Switchers**, and **Responsive Design Patterns**
 
 ---
 
